@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29864428-0820-423c-9f40-3d8b29833145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/AbstractProductBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/AbstractProductLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/ConcreteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/IBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/ProductBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactoryPattern/src/ProductLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/Chain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/NegativeProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/PositiveProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/TestChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/src/ZeroProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/CompanyDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite_Pattern/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/CommercialPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/DomesticPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/GeneralBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/GetPlanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/InstitutionPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/Plan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/MoreOnProxy/CommandExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/MoreOnProxy/CommandExecutorProtectionProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/MoreOnProxy/ICommandExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/ProxyPatternEx/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/ProxyPatternEx/Internet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/ProxyPatternEx/ProxyInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProxyPattern/src/ProxyPatternEx/RealInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,9 +167,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CommanPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -252,16 +217,15 @@
       <option name="presentableId" value="Default" />
       <updated>1564526383083</updated>
       <workItem from="1564526391042" duration="3083000" />
-      <workItem from="1564550020918" duration="1029000" />
+      <workItem from="1564550020918" duration="1039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4112000" />
+    <option name="totallyTimeSpent" value="4122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25771812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

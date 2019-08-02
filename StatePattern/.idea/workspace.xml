@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="add291a8-23c9-4d19-9bfd-a5c6ea04c924" name="Default Changelist" comment="">
+    <list default="true" id="d98b669d-257b-42ed-b3dc-4da8106ef524" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/vcs.xml" afterDir="false" />
@@ -31,14 +31,14 @@
       <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegMenu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegNonBothRestaurant.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/AlertStateContex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/MobileAlertState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Silent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/StatePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Vibration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlertStateContex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MobileAlertState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Silent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vibration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
@@ -56,53 +56,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MobileAlertState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/StatePattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Developer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Silent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="315">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Manager.java">
+        <entry file="file://$PROJECT_DIR$/src/Vibration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="81" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+            <state relative-caret-position="42">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
               <folding>
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CompanyDirectory.java">
+        <entry file="file://$PROJECT_DIR$/src/AlertStateContex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+            <state relative-caret-position="381">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#108#118#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,50 +124,38 @@
               <ID>JAVA</ID>
               <OriginalElement />
               <nodes>
-                <node x="0.0" y="103.0">Developer</node>
-                <node x="468.0" y="103.0">Manager</node>
-                <node x="240.5" y="0.0">Employee</node>
-                <node x="226.0" y="114.5">CompanyDirectory</node>
+                <node x="-32.0" y="111.0">Vibration</node>
+                <node x="0.0" y="345.0">StatePattern</node>
+                <node x="214.0" y="103.0">Silent</node>
+                <node x="0.0" y="201.0">AlertStateContext</node>
+                <node x="105.5" y="0.0">MobileAlertState</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="CompanyDirectory" target="Employee">
-                  <point x="0.0" y="-60.0" />
-                  <point x="0.0" y="26.5" />
+                <edge source="Silent" target="MobileAlertState">
+                  <point x="0.0" y="-26.5" />
+                  <point x="311.0" y="78.0" />
+                  <point x="253.25" y="78.0" />
+                  <point x="49.25" y="26.5" />
                 </edge>
-                <edge source="Manager" target="Employee">
-                  <point x="0.0" y="-71.5" />
-                  <point x="567.0" y="78.0" />
-                  <point x="401.3333333333333" y="78.0" />
-                  <point x="64.33333333333331" y="26.5" />
-                </edge>
-                <edge source="Developer" target="Employee">
-                  <point x="0.0" y="-71.5" />
-                  <point x="103.0" y="78.0" />
-                  <point x="272.6666666666667" y="78.0" />
-                  <point x="-64.33333333333331" y="26.5" />
+                <edge source="Vibration" target="MobileAlertState">
+                  <point x="0.0" y="-26.5" />
+                  <point x="97.0" y="78.0" />
+                  <point x="154.75" y="78.0" />
+                  <point x="-49.25" y="26.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.6997084548104956" x="333.0" y="123.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-9.5" y="198.0" />
               <SelectedNodes />
               <Categories>
-                <Category>Inner Classes</Category>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
                 <Category>Methods</Category>
                 <Category>Properties</Category>
+                <Category>Inner Classes</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -168,6 +165,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -178,15 +176,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Company.java" />
-        <option value="$PROJECT_DIR$/src/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Developer.java" />
-        <option value="$PROJECT_DIR$/src/Manager.java" />
-        <option value="$PROJECT_DIR$/src/CompanyDirectory.java" />
+        <option value="$PROJECT_DIR$/src/Silte.java" />
+        <option value="$PROJECT_DIR$/src/MobileAlertState.java" />
+        <option value="$PROJECT_DIR$/src/Vibration.java" />
+        <option value="$PROJECT_DIR$/src/AlertStateContex.java" />
+        <option value="$PROJECT_DIR$/src/Silent.java" />
+        <option value="$PROJECT_DIR$/src/StatePattern.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -199,23 +205,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CompositePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Composite_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StatePattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StatePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AlertStateContex.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -233,25 +249,39 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="StatePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatePattern" />
+      <module name="StatePattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StatePattern" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="add291a8-23c9-4d19-9bfd-a5c6ea04c924" name="Default Changelist" comment="" />
-      <created>1564589221642</created>
+      <changelist id="d98b669d-257b-42ed-b3dc-4da8106ef524" name="Default Changelist" comment="" />
+      <created>1564686779467</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564589221642</updated>
-      <workItem from="1564589225283" duration="3236000" />
+      <updated>1564686779467</updated>
+      <workItem from="1564686782765" duration="3049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3236000" />
+    <option name="totallyTimeSpent" value="3049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -259,8 +289,9 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12080537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -268,7 +299,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,98 +319,95 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement />
           <nodes>
-            <node x="0.0" y="103.0">Developer</node>
-            <node x="468.0" y="103.0">Manager</node>
-            <node x="240.5" y="0.0">Employee</node>
-            <node x="226.0" y="114.5">CompanyDirectory</node>
+            <node x="-32.0" y="111.0">Vibration</node>
+            <node x="0.0" y="345.0">StatePattern</node>
+            <node x="214.0" y="103.0">Silent</node>
+            <node x="0.0" y="201.0">AlertStateContext</node>
+            <node x="105.5" y="0.0">MobileAlertState</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="CompanyDirectory" target="Employee">
-              <point x="0.0" y="-60.0" />
-              <point x="0.0" y="26.5" />
+            <edge source="Silent" target="MobileAlertState">
+              <point x="0.0" y="-26.5" />
+              <point x="311.0" y="78.0" />
+              <point x="253.25" y="78.0" />
+              <point x="49.25" y="26.5" />
             </edge>
-            <edge source="Manager" target="Employee">
-              <point x="0.0" y="-71.5" />
-              <point x="567.0" y="78.0" />
-              <point x="401.3333333333333" y="78.0" />
-              <point x="64.33333333333331" y="26.5" />
-            </edge>
-            <edge source="Developer" target="Employee">
-              <point x="0.0" y="-71.5" />
-              <point x="103.0" y="78.0" />
-              <point x="272.6666666666667" y="78.0" />
-              <point x="-64.33333333333331" y="26.5" />
+            <edge source="Vibration" target="MobileAlertState">
+              <point x="0.0" y="-26.5" />
+              <point x="97.0" y="78.0" />
+              <point x="154.75" y="78.0" />
+              <point x="-49.25" y="26.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.6997084548104956" x="333.0" y="123.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-9.5" y="198.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Inner Classes</Category>
             <Category>Fields</Category>
             <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
+            <Category>Inner Classes</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CompanyDirectory.java">
+    <entry file="file://$PROJECT_DIR$/src/Vibration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+        <state relative-caret-position="42">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#108#118#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/Silent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="81" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+        <state relative-caret-position="315">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/StatePattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Developer.java">
+    <entry file="file://$PROJECT_DIR$/src/AlertStateContex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="381">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MobileAlertState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
