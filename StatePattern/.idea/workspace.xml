@@ -2,46 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d98b669d-257b-42ed-b3dc-4da8106ef524" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/CommandPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOffCommand .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/FacadePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Both.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/HotelKeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Menus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/NonVegMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/NonVegRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegNonBothRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlertStateContex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MobileAlertState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Silent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vibration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ArchiveTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/CategoryTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ChainBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/GenericTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ImageTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/SingleTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/TemplateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/AverageDisplayScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CricketData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CurrentScoreDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/ChunLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/JumpBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Ken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/KickBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/LightningKick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/LongJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Ryu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/ShortJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/StreetFighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/TornadoKick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +49,8 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MobileAlertState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
@@ -65,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StatePattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
@@ -77,12 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Silent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="252">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -92,10 +82,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,59 +89,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AlertStateContex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
                 <element signature="e#105#106#0" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement />
-              <nodes>
-                <node x="-32.0" y="111.0">Vibration</node>
-                <node x="0.0" y="345.0">StatePattern</node>
-                <node x="214.0" y="103.0">Silent</node>
-                <node x="0.0" y="201.0">AlertStateContext</node>
-                <node x="105.5" y="0.0">MobileAlertState</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="Silent" target="MobileAlertState">
-                  <point x="0.0" y="-26.5" />
-                  <point x="311.0" y="78.0" />
-                  <point x="253.25" y="78.0" />
-                  <point x="49.25" y="26.5" />
-                </edge>
-                <edge source="Vibration" target="MobileAlertState">
-                  <point x="0.0" y="-26.5" />
-                  <point x="97.0" y="78.0" />
-                  <point x="154.75" y="78.0" />
-                  <point x="-49.25" y="26.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-9.5" y="198.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -193,9 +132,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -205,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,12 +168,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FactoryPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -273,90 +214,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564686779467</updated>
-      <workItem from="1564686782765" duration="3049000" />
+      <workItem from="1564686782765" duration="3672000" />
+      <workItem from="1565107454701" duration="1337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3049000" />
+    <option name="totallyTimeSpent" value="5009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="-32.0" y="111.0">Vibration</node>
-            <node x="0.0" y="345.0">StatePattern</node>
-            <node x="214.0" y="103.0">Silent</node>
-            <node x="0.0" y="201.0">AlertStateContext</node>
-            <node x="105.5" y="0.0">MobileAlertState</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="Silent" target="MobileAlertState">
-              <point x="0.0" y="-26.5" />
-              <point x="311.0" y="78.0" />
-              <point x="253.25" y="78.0" />
-              <point x="49.25" y="26.5" />
-            </edge>
-            <edge source="Vibration" target="MobileAlertState">
-              <point x="0.0" y="-26.5" />
-              <point x="97.0" y="78.0" />
-              <point x="154.75" y="78.0" />
-              <point x="-49.25" y="26.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-9.5" y="198.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="uml://JAVA/" />
+    <entry file="file://$PROJECT_DIR$/src/Silent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -364,42 +272,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Silent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StatePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AlertStateContex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -408,6 +290,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StatePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -5,6 +5,11 @@ public class StereoOnWithCDCommand implements Command
     {
         this.stereo = stereo;
     }
+
+    /**
+     *
+     */
+    @Override
     public void execute()
     {
         stereo.on();

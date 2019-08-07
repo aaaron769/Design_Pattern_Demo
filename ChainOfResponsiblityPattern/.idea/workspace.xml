@@ -2,46 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba1a1c5-6fca-4b33-ba9c-373399c1098f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/CommandPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOffCommand .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/FacadePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Both.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/HotelKeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/Menus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/NonVegMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/NonVegRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegNonBothRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FacadePattern/src/VegRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/AlertStateContex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/MobileAlertState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Silent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/StatePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Vibration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompositePattern/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,10 +134,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -202,7 +166,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProxyPattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GroupProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -228,16 +192,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564599343332</updated>
-      <workItem from="1564599347684" duration="2407000" />
+      <workItem from="1564599347684" duration="2413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="2413000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
