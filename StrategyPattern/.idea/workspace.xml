@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d57880e8-2e36-48c6-abd1-69786987edc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ArchiveTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/CategoryTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ChainBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/GenericTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ImageTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/SingleTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/TemplateHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/AverageDisplayScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CricketData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CurrentScoreDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChunLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KickBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LightningKick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ryu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreetFighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TornadoKick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/src/FactoryPattern_Demo/GetPlanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/src/FactoryPattern_Demo/GetPlanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,16 +13,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fighter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="122">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -167,17 +133,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="15" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1015" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -188,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,14 +164,17 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjectFrameWork" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,18 +214,18 @@
       <updated>1564760477771</updated>
       <workItem from="1564760484429" duration="3940000" />
       <workItem from="1564799206081" duration="1660000" />
-      <workItem from="1565063712627" duration="1012000" />
+      <workItem from="1565063712627" duration="1389000" />
+      <workItem from="1565196687455" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6612000" />
+    <option name="totallyTimeSpent" value="7116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,8 +286,8 @@
     <entry file="uml://JAVA/" />
     <entry file="file://$PROJECT_DIR$/src/Fighter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="122">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>

@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29864428-0820-423c-9f40-3d8b29833145" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ArchiveTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/CategoryTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ChainBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/GenericTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/ImageTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/SingleTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExamPractice/ChainOfRepositoryPractice/src/TemplateHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/AverageDisplayScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CricketData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/CurrentScoreDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObserverPattern/src/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/ChunLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/JumpBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Ken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/KickBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/LightningKick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/LongJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/Ryu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/ShortJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/StreetFighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StrategyPattern/src/TornadoKick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsiblityPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/RemoteControlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/SimpleRemoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CommandPattern/src/StereoOnWithCDCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern_Demo/GetPlanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern_Demo/GetPlanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatePattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +164,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjectFrameWork" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -245,16 +212,15 @@
       <updated>1564526383083</updated>
       <workItem from="1564526391042" duration="3083000" />
       <workItem from="1564550020918" duration="1039000" />
-      <workItem from="1565127134720" duration="549000" />
+      <workItem from="1565127134720" duration="1753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4671000" />
+    <option name="totallyTimeSpent" value="5875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26107383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
