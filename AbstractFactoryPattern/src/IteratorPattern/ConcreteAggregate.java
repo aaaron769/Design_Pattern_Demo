@@ -4,11 +4,12 @@ package IteratorPattern;
 import java.util.Iterator;
 
 public class ConcreteAggregate implements Aggregate {
-    Object[] objects;
+    Object[] BookCopy;
     int index =0;
-    public ConcreteAggregate(Object[] objects){
-        this.objects = objects;
+    public ConcreteAggregate(Object[] BookCopy){
+        this.BookCopy = BookCopy;
     }
+
     @Override
     public Iterator getIterator() {
         return new InnerClass();
@@ -17,13 +18,13 @@ public class ConcreteAggregate implements Aggregate {
 
         @Override
         public boolean hasNext() {
-            return index< objects.length;
+            return index< BookCopy.length;
         }
 
         @Override
         public Object next() {
             if (hasNext())
-                return objects[index++];
+                return BookCopy[index++];
             else return null;
         }
     }

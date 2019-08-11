@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0bbeda0-3fa4-4f35-b447-2e595784ec1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IteratorPattern/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorPattern/ConcreteAggregate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryPattern/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IteratorPattern/ConcreteAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IteratorPattern/ConcreteAggregate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +90,7 @@
       <workItem from="1565200214919" duration="282000" />
       <workItem from="1565200702781" duration="4511000" />
       <workItem from="1565323710899" duration="2120000" />
-      <workItem from="1565406212103" duration="1845000" />
+      <workItem from="1565406212103" duration="3494000" />
     </task>
     <servers />
   </component>
